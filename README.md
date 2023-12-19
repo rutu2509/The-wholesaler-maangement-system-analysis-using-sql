@@ -1,0 +1,1 @@
+# The-wholesaler-maangement-system-analysis-using-sql
